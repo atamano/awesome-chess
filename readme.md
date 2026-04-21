@@ -57,6 +57,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [GameKnot](https://gameknot.com) - Long-standing correspondence community with teams and thematic tournaments.
 - [SparkChess](https://www.sparkchess.com) - Casual play-vs-computer and multiplayer platform with unique AI personalities.
 - [Papachess](https://papachess.com) - Human-like AI opponents and personalized training derived from your own games.
+- [FIDE Online Arena](https://arena.myfide.net) - Official FIDE-operated server with rated online chess and anti-cheat enforcement.
+- [Lichess4545](https://www.lichess4545.com) - Team-league hub running 45+45 classical and related Lichess-affiliated leagues.
 
 ## Mobile Apps
 
@@ -96,6 +98,9 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Listudy](https://listudy.org) - Free spaced-repetition trainer for openings, tactics and blindfold play.
 - [Blitz Tactics](https://blitztactics.com) - Fast-paced tactics drills focused on pattern recognition speed.
 - [Aimchess](https://aimchess.com) - AI analytics that generate custom exercises from your own games.
+- [Chess.com Vision](https://www.chess.com/vision) - Square-coordinate and move-speed trainer for board-vision improvement.
+- [WTHarvey](https://wtharvey.com) - Free archive of more than 20,000 tactical puzzles drawn from GM games.
+- [ChessTactics.org](https://www.chesstactics.org) - Long-standing site offering thematic tactics courses and problem sets.
 
 ## Openings
 
@@ -159,6 +164,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Quality Chess catalog](https://www.qualitychess.co.uk) - Publisher of the acclaimed Grandmaster Preparation series and elite training books.
 - [Gambit Publications catalog](https://www.gambitbooks.com) - Longstanding chess publisher behind FCE and Nunn's Chess Puzzle Book.
 - [New In Chess](https://www.newinchess.com) - Dutch publisher behind the flagship magazine and many top instructional titles.
+- [Project Gutenberg Chess Books](https://www.gutenberg.org/ebooks/subject/1677) - Public-domain chess literature, including classics by Staunton, Morphy and Lasker.
 
 ## YouTube Channels
 
@@ -187,6 +193,11 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Tania Sachdev](https://www.youtube.com/@TaniaSachdevChess) - IM Tania Sachdev's commentary diaries from Norway Chess, Freestyle and the Champions Chess Tour.
 - [ChessMood YouTube](https://www.youtube.com/@ChessMood) - GM Avetik Grigoryan's channel tied to the ChessMood course platform.
 - [Nemo Zhou](https://www.youtube.com/@akaNemsko) - WGM Qiyu Zhou's YouTube home for stream highlights and travel chess.
+- [Magnus Carlsen](https://www.youtube.com/@MagnusCarlsen) - The world champion's personal channel with tournament recaps and Take Take Take segments.
+- [Anish Giri](https://www.youtube.com/@AnishGiri) - Top-ten GM Anish Giri's channel covering elite events and opening theory.
+- [Jan Gustafsson](https://www.youtube.com/@JanGustafsson) - GM Jan Gustafsson's opening clinics and top-event commentary.
+- [Chessexplained](https://www.youtube.com/@Chessexplained) - IM Christof Sielecki's deep opening and improvement courses.
+- [Kingscrusher](https://www.youtube.com/@kingscrusher) - CM Tryfon Gavriel's long-running channel covering classic games and Leela deep dives.
 
 ## Twitch Streamers
 
@@ -274,6 +285,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ICCF](https://www.iccf.com) - International Correspondence Chess Federation and the official web server for title-eligible correspondence events.
 - [LSS](https://www.lechenicher-schachserver.de) - Free correspondence chess server supporting classical postal-style time controls and themed events.
 - [SchemingMind](https://www.schemingmind.com) - Subscription correspondence chess club with thematic tournaments and a long-running community.
+- [ChessWorld](https://www.chessworld.net) - Online correspondence-chess community with team matches and thematic events.
 
 ## Ratings and Statistics
 
@@ -282,6 +294,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chessmetrics](http://www.chessmetrics.com) - Jeff Sonas's archived historical-rating system covering games back to 1843.
 - [ChessGoals](https://chessgoals.com) - Rating comparisons across Chess.com, Lichess and FIDE plus improvement resources.
 - [Chess.com Ratings](https://www.chess.com/ratings) - Live top-100 lists for classical, rapid, blitz and bullet.
+- [Elometer](https://elometer.net) - Self-administered 76-position test that estimates your chess playing strength.
 
 ## Engines
 
@@ -384,6 +397,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Caissabase](http://caissabase.co.uk) - Free 5M+ game Scid database updated quarterly from TWIC and other sources.
 - [FICS Games Database](https://www.ficsgames.org) - Archive of games played on the Free Internet Chess Server.
 - [Leela Chess Zero Training Data](https://storage.lczero.org/files/training_data/) - Public self-play training data and network weights.
+- [Lichess Elite Database](https://database.nikonoel.fr) - Curated subset of Lichess games limited to players rated 2400 and above.
+- [Beginchess PGN Downloads](http://beginchess.com/downloads/) - Free PGN files extracted from dozens of classic chess books and game collections.
 - [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - Canonical open-source ECO opening dataset used by many tools.
 
 ## File Formats and Standards
@@ -431,6 +446,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ChessDojo Discord](https://discord.gg/chessdojo) - Community hub for the Kraai, Kavutskiy and Pruess training program.
 - [Chess.com Discord](https://discord.gg/chesscom) - Official Chess.com server for events, streamer chat and support.
 - [Lichess Discord](https://discord.gg/lichess) - Official Lichess chat for features, variants and volunteer development.
+- [PenguinGm1 Discord](https://discord.com/invite/penguingm1) - GM Andrew Tang's community server for bullet chess and variety play.
+- [Pawngrubber's Discord](https://discord.com/invite/yrZZujg) - Improvement-focused community led by a Chess.com employee with weekly events.
 - [Lichess on Bluesky](https://bsky.app/profile/lichess.org) - Official Lichess announcements on the Bluesky network.
 - [Chess.com on X](https://x.com/chesscom) - Official Chess.com account for tournaments, news and promotions.
 - [FIDE on X](https://x.com/FIDE_chess) - International Chess Federation's announcements and world events.
