@@ -1,0 +1,23 @@
+name: Broken or outdated link
+description: Report a link that is dead, redirecting, or pointing to an inactive project.
+title: "[Broken] "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Affected entry
+      placeholder: e.g. [Chess24](https://chess24.com)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What is the problem?
+      placeholder: Redirects to X / 404 / no activity since YYYY-MM
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement URL (if any)

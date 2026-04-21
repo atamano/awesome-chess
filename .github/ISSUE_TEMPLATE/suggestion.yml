@@ -1,0 +1,74 @@
+name: Suggest a resource
+description: Propose a new chess resource for the list.
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g. Stockfish
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Which category does it belong to?
+      options:
+        - Play Online
+        - Mobile Apps
+        - Variants
+        - Puzzles and Tactics
+        - Openings
+        - Endgames
+        - Training Platforms and Courses
+        - Books
+        - YouTube Channels
+        - Twitch Streamers
+        - Podcasts
+        - News and Magazines
+        - Blogs and Newsletters
+        - Tournaments and Broadcasts
+        - Governing Bodies
+        - Ratings and Statistics
+        - Engines
+        - Desktop GUIs
+        - Terminal Clients
+        - Databases and Opening Tools
+        - Libraries
+        - APIs and Data Sources
+        - Datasets
+        - File Formats and Standards
+        - Engine Testing
+        - Artificial Intelligence and Research
+        - Forums and Subreddits
+        - Chat and Social Media
+        - Reference and Wikis
+        - History
+        - Famous Games
+        - Problems and Studies
+        - Chess in Art and Fiction
+        - Equipment
+        - Collegiate and Clubs
+        - Other / New category
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-sentence description
+      placeholder: Starts with a capital, ends with a period, under 100 characters.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this belong on the list?
+      placeholder: Evidence of activity, audience, or uniqueness vs existing entries.
