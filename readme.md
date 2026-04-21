@@ -67,6 +67,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Stockfish Chess Engine](https://apps.apple.com/us/app/stockfish-chess/id935877915) - Official mobile Stockfish app for iOS and Android.
 - [Chess Tempo](https://chesstempo.com/mobile) - Tactics training, rated puzzles and repertoire trainer on mobile.
 - [Follow Chess](https://followchess.com) - Live broadcast viewer for major tournaments.
+- [Take Take Take](https://taketaketake.com) - Magnus Carlsen's chess platform combining live tournament viewing, play and AI coaching on iOS and Android.
 
 ## Variants
 
