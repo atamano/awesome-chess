@@ -112,7 +112,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess Endgame Practice](https://lichess.org/practice) - Free interactive endgame drills against the engine.
 - [Chess.com Endgames](https://www.chess.com/endgames) - Themed endgame trainer with progressive difficulty.
 - [Chesstempo Endgames](https://chesstempo.com/chess-endgames) - Rated endgame trainer using tablebase-perfect positions.
-- [Syzygy Tablebases Online](https://syzygy-tables.info) - Query the 7-piece Syzygy tablebase for perfect endgame play.
 
 ## Training Platforms and Courses
 
@@ -145,7 +144,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Everyone's First Chess Workbook](https://www.newinchess.com/everyone-s-first-chess-workbook) - Peter Giannatos's 738-puzzle starter used widely by coaches.
 - [Quality Chess catalog](https://www.qualitychess.co.uk) - Publisher of the acclaimed Grandmaster Preparation series and elite training books.
 - [Gambit Publications catalog](https://www.gambitbooks.com) - Longstanding chess publisher behind FCE and Nunn's Chess Puzzle Book.
-- [New In Chess catalog](https://www.newinchess.com) - Dutch publisher of the magazine and many top instructional titles.
+- [New In Chess](https://www.newinchess.com) - Dutch publisher behind the flagship magazine and many top instructional titles.
 
 ## YouTube Channels
 
@@ -178,7 +177,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [imrosen](https://www.twitch.tv/imrosen) - Eric Rosen's calm, teaching-oriented Lichess and Chess.com sessions.
 - [akaNemsko](https://www.twitch.tv/akanemsko) - WGM Qiyu Zhou's long-running chess-and-variety stream.
 - [anna_chess](https://www.twitch.tv/anna_chess) - WFM Anna Cramling's stream featuring tournaments and viewer games.
-- [Chess](https://www.twitch.tv/chess) - Chess.com's official Twitch home for PogChamps and the Speed Chess Championship.
+- [Chess](https://www.twitch.tv/chess) - Official Twitch home of PogChamps and the Speed Chess Championship.
 - [GMBenjaminFinegold](https://www.twitch.tv/gmbenjaminfinegold) - Ben Finegold's lectures and Q&A broadcasts from Roswell.
 - [ChessDojoLive](https://www.twitch.tv/chessdojolive) - ChessDojo's live training, game reviews and podcast recordings.
 
@@ -202,7 +201,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chessdom](https://www.chessdom.com) - Independent news site with extensive live event coverage.
 - [The Week in Chess](https://theweekinchess.com) - Mark Crowther's weekly PGN and news digest, running since 1994.
 - [Chess Life Online](https://new.uschess.org/news) - US Chess Federation's official news and tournament reports.
-- [New In Chess](https://www.newinchess.com) - Premier international chess magazine, eight issues a year in print and digital.
+- [New In Chess Magazine](https://www.newinchess.com/magazine) - Premier international chess magazine, eight issues a year in print and digital.
 - [British Chess Magazine](https://britishchessmagazine.co.uk) - World's oldest continuously published chess journal, founded 1881.
 - [American Chess Magazine](https://acmchess.com) - Bi-monthly US magazine edited by Josip Asik.
 - [ChessBase India News](https://chessbase.in) - Leading source for Indian chess news and coverage.
@@ -270,7 +269,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Maia](https://github.com/CSSLab/maia-chess) - Human-like neural network engine that mirrors play at specific skill levels.
 - [Dragon by Komodo](https://komodochess.com) - Strong commercial engine, free for non-commercial use.
 - [HIARCS](https://www.hiarcs.com) - Veteran commercial engine with a focus on positional play.
-- [Fritz](https://en.chessbase.com) - ChessBase's classic commercial engine and analysis companion.
+- [Fritz](https://www.fritzchess.com) - ChessBase's classic commercial engine and analysis companion.
 
 ## Desktop GUIs
 
@@ -282,7 +281,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ChessX](https://chessx.sourceforge.io) - Qt-based cross-platform PGN database and analysis GUI.
 - [Arena](http://www.playwitharena.de) - Long-running free Windows and Linux GUI supporting UCI and WinBoard engines.
 - [XBoard](https://www.gnu.org/software/xboard/) - GNU Project's reference GUI, still maintained for Unix, Windows and macOS.
-- [ChessBase](https://en.chessbase.com) - Commercial industry-standard database and analysis suite used by top professionals.
+- [ChessBase](https://shop.chessbase.com/en/categories/chessbase-program) - Commercial industry-standard database and analysis suite used by top professionals.
 - [Lucas Chess R](https://lucaschess.pythonanywhere.com) - Free Windows and Linux training GUI with tactics, tutors and built-in engines.
 
 ## Terminal Clients
@@ -301,7 +300,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chessgames.com](https://www.chessgames.com) - Community-driven database with discussion on nearly every game.
 - [365Chess](https://www.365chess.com) - Free searchable game database with opening explorer.
 - [Scid](https://scid.sourceforge.net) - Shane's Chess Information Database and the `.si4` family of database tools.
-- [Syzygy Tablebases](https://github.com/syzygy1/tb) - Reference implementation and tables for 6/7-piece endgame tablebases.
+- [Syzygy Tablebases](https://github.com/syzygy1/tb) - Reference implementation and tables for 6- and 7-piece endgame tablebases.
 - [ChessBase Opening Encyclopaedia](https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-your-easy-access-to-opening-theory) - Annual commercial opening reference released by ChessBase.
 
 ## Libraries
@@ -357,7 +356,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [UCI Protocol](https://backscattering.de/chess/uci/) - Universal Chess Interface spec maintained by Niklas Fiekas, used by Stockfish and Leela.
 - [XBoard CECP Protocol](https://www.gnu.org/software/xboard/engine-intf.html) - GNU Chess Engine Communication Protocol, the older alternative to UCI.
 - [Polyglot Book Format](http://hardy.uhasselt.be/Toga/book_format.html) - Binary `.bin` opening-book format supported by most engines.
-- [Syzygy Tablebase Format](https://github.com/syzygy1/tb) - Reference implementation and docs for Syzygy 7-piece endgame tablebases.
 - [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) - Long-maintained CLI for filtering, converting and fixing PGN files.
 
 ## Engine Testing
