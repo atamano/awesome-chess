@@ -193,6 +193,11 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Jan Gustafsson](https://www.youtube.com/@JanistanTV) - GM Jan Gustafsson's opening clinics and top-event commentary.
 - [Chessexplained](https://www.youtube.com/@Chessexplained) - IM Christof Sielecki's deep opening and improvement courses.
 - [Kingscrusher](https://www.youtube.com/@kingscrusher) - CM Tryfon Gavriel's long-running channel covering classic games and Leela deep dives.
+- [Blitzstream](https://www.youtube.com/@Blitzstream) - Kevin Bordi's channel and the largest French-language chess presence online.
+- [Julien Song](https://www.youtube.com/@JulienSong) - IM Julien Song's French-language channel with tournament tours and improvement series.
+- [The Big Greek](https://www.youtube.com/@TheBigGreek) - IM Georgios Souleidis's channel, the largest German-language chess channel.
+- [Rey Enigma](https://www.youtube.com/@ReyEnigma) - Masked Spanish IM's short-form street chess challenges and viral duels.
+- [Samay Raina Chess](https://www.youtube.com/@samayrainachess) - Indian comedian-streamer whose chess tournaments helped spark the India chess boom.
 
 ## Twitch Streamers
 
@@ -205,6 +210,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chess](https://www.twitch.tv/chess) - Official Twitch home of PogChamps and the Speed Chess Championship.
 - [itsBenAndKaren](https://www.twitch.tv/itsbenandkaren) - Ben Finegold's lectures and Q&A broadcasts from Roswell.
 - [ChessDojo](https://www.twitch.tv/chessdojo) - ChessDojo's live training, game reviews and podcast recordings.
+- [Blitzstream](https://www.twitch.tv/blitzstream) - Kevin Bordi's flagship French chess stream with daily blitz sessions and event commentary.
+- [Julien Song](https://www.twitch.tv/juliensong) - IM Julien Song's Twitch home for French-language live games and improvement content.
 
 ## Podcasts
 
