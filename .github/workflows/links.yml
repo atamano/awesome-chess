@@ -1,0 +1,31 @@
+name: links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --max-concurrency 8
+            --timeout 30
+            --retry-wait-time 5
+            --accept 200,202,203,204,206,301,302,307,308,429,999
+            --exclude-mail
+            readme.md contributing.md code-of-conduct.md
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
