@@ -12,6 +12,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Puzzles and Tactics](#puzzles-and-tactics)
 - [Openings](#openings)
 - [Endgames](#endgames)
+- [Analysis Tools](#analysis-tools)
 - [Training Platforms and Courses](#training-platforms-and-courses)
 - [Books](#books)
 - [YouTube Channels](#youtube-channels)
@@ -22,6 +23,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Blogs and Newsletters](#blogs-and-newsletters)
 - [Tournaments and Broadcasts](#tournaments-and-broadcasts)
 - [Governing Bodies](#governing-bodies)
+- [Tournament Management Software](#tournament-management-software)
+- [Correspondence Chess](#correspondence-chess)
 - [Ratings and Statistics](#ratings-and-statistics)
 - [Engines](#engines)
 - [Desktop GUIs](#desktop-guis)
@@ -64,7 +67,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Stockfish Chess Engine](https://apps.apple.com/us/app/stockfish-chess/id935877915) - Official mobile Stockfish app for iOS and Android.
 - [Chess Tempo](https://chesstempo.com/mobile) - Tactics training, rated puzzles and repertoire trainer on mobile.
 - [Follow Chess](https://followchess.com) - Live broadcast viewer for major tournaments.
-- [Chessify](https://chessify.me) - Cloud analysis with rentable Stockfish, Lc0 and Maia engines plus board OCR.
 
 ## Variants
 
@@ -100,14 +102,12 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess Opening Explorer](https://lichess.org/opening) - Free explorer over master games, Lichess games and player profiles.
 - [Chess.com Opening Explorer](https://www.chess.com/explorer) - Web explorer over Chess.com games and curated master databases.
 - [365Chess Opening Explorer](https://www.365chess.com/opening.php) - Free opening explorer searchable by ECO code and position.
-- [Chessable](https://www.chessable.com) - Spaced-repetition MoveTrainer platform with courses from top grandmasters.
 - [Chessly](https://www.chessly.com) - GothamChess opening-focused training with adaptive coursework.
 - [Chessbook](https://chessbook.com) - Repertoire builder with spaced repetition and game-review integration.
 - [Chessreps](https://www.chessreps.com) - Minimal spaced-repetition opening trainer for rapid repertoire building.
 - [OpeningTree](https://www.openingtree.com) - Visualizes your own Chess.com or Lichess games as an opening tree.
 - [ChessAtlas](https://chessatlas.net) - Spaced-repetition trainer for memorizing and maintaining your opening repertoire.
 - [Opening Scanner](https://openingscanner.com) - Client-side tool that reveals any Lichess or Chess.com player's actual repertoire with ECO classification and win rates.
-- [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - Canonical open-source ECO opening dataset used by many tools.
 
 ## Endgames
 
@@ -115,8 +115,19 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chess.com Endgames](https://www.chess.com/endgames) - Themed endgame trainer with progressive difficulty.
 - [Chesstempo Endgames](https://chesstempo.com/chess-endgames) - Rated endgame trainer using tablebase-perfect positions.
 
+## Analysis Tools
+
+- [Chess.com Game Review](https://www.chess.com/analysis) - Automated post-game report scoring accuracy, key moments and phase-by-phase play.
+- [Chessify](https://chessify.me) - Rentable cloud Stockfish and Lc0 at multi-GN/s speeds with ChessBase and UCI integration.
+- [DecodeChess](https://decodechess.com) - Natural-language engine explanations that translate Stockfish lines into plain text.
+- [NextChessMove](https://nextchessmove.com) - Web Stockfish calculator for quick best-move lookups from any FEN.
+- [Chessvision.ai](https://chessvision.ai) - Browser extension and API that OCRs chess diagrams from images, PDFs and video frames.
+- [Chess-API.com](https://chess-api.com) - Free Stockfish-as-a-service REST and WebSocket endpoint returning best-move analysis from FEN.
+
 ## Training Platforms and Courses
 
+- [Chessable](https://www.chessable.com) - Spaced-repetition MoveTrainer platform with courses from top grandmasters, now part of Chess.com.
+- [ChessMood](https://chessmood.com) - GM-taught course library with structured opening, middlegame and endgame paths led by Avetik Grigoryan.
 - [Chess.com Lessons](https://www.chess.com/lessons) - Structured video library covering openings, tactics, strategy and endgames.
 - [iChess.net](https://www.ichess.net) - Marketplace for master-level video courses and the Master Method series.
 - [ICC Video Library](https://www.chessclub.com/video-library) - Archive of lectures by Seirawan, Dlugy, Ashley and others.
@@ -171,6 +182,11 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ChessVibes](https://www.youtube.com/@ChessVibesOfficial) - Nelson Lopez's clear, instructive videos focused on practical improvement.
 - [Dojo Talks](https://www.youtube.com/@ChessDojo) - The ChessDojo team's training podcast and live review streams.
 - [IM Alex Banzea](https://www.youtube.com/@AlexBanzea) - Punchy opening-focused videos for club players and improvers.
+- [Chessbrah](https://www.youtube.com/chessbrah) - Aman Hambleton and Eric Hansen's channel known for the Building Habits and speedrun series.
+- [Anna Rudolf](https://www.youtube.com/@Anna_Chess) - IM Anna Rudolf's analysis, vlogs and event commentary.
+- [Tania Sachdev](https://www.youtube.com/@TaniaSachdevChess) - IM Tania Sachdev's commentary diaries from Norway Chess, Freestyle and the Champions Chess Tour.
+- [ChessMood YouTube](https://www.youtube.com/@ChessMood) - GM Avetik Grigoryan's channel tied to the ChessMood course platform.
+- [Nemo Zhou](https://www.youtube.com/@akaNemsko) - WGM Qiyu Zhou's YouTube home for stream highlights and travel chess.
 
 ## Twitch Streamers
 
@@ -207,6 +223,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [New In Chess Magazine](https://www.newinchess.com/magazine) - Premier international chess magazine, eight issues a year in print and digital.
 - [British Chess Magazine](https://britishchessmagazine.co.uk) - World's oldest continuously published chess journal, founded 1881.
 - [American Chess Magazine](https://acmchess.com) - Bi-monthly US magazine edited by Josip Asik.
+- [Kingpin Chess Magazine](https://www.kingpinchess.net) - Long-running satirical chess magazine by Jonathan Manley.
 - [ChessBase India News](https://chessbase.in) - Leading source for Indian chess news and coverage.
 
 ## Blogs and Newsletters
@@ -225,6 +242,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Tata Steel Chess](https://tatasteelchess.com) - Official site of the prestigious Wijk aan Zee tournament.
 - [Norway Chess](https://norwaychess.no) - Official site of the annual Stavanger super-tournament.
 - [Lichess Broadcasts](https://lichess.org/broadcast) - Free live-event relay with per-move analysis boards.
+- [chess-results.com](https://chess-results.com) - Public archive of Swiss-system tournament results from club events up to Olympiads.
+- [Chessdom Calendar](https://calendar.chessdom.com) - Global calendar of upcoming classical, rapid and junior tournaments.
 - [ChessBomb](https://www.chessbomb.com) - Real-time event broadcasts with engine analysis and discussion.
 - [TCEC](https://tcec-chess.com) - Top Chess Engine Championship, the flagship long-time-control engine league.
 - [Computer Chess Championship](https://www.chess.com/computer-chess-championship) - Chess.com's 24/7 engine tournament with live commentary.
@@ -241,12 +260,26 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [All India Chess Federation](https://aicf.in) - Governing body for chess in India.
 - [Deutscher Schachbund](https://www.schachbund.de) - German chess federation.
 - [Fédération Française des Échecs](https://www.echecs.asso.fr) - French chess federation.
+- [IBCA](https://ibca-info.org) - International Braille Chess Association, the FIDE-affiliated body for blind and visually impaired players.
+
+## Tournament Management Software
+
+- [Swiss-Manager](https://swiss-manager.at) - FIDE-approved pairing program used across more than a million tournaments and paired with chess-results.com.
+- [SwissSys](https://swisssys.com) - Windows tournament director software for Swiss, round-robin and team Swiss events under USCF and FIDE rules.
+- [Vega Chess](http://www.vegachess.com) - Cross-platform pairing engine for Swiss, round-robin and team events used across Europe and South America.
+- [Tornelo](https://home.tornelo.com) - Online tournament platform supporting pairings, arbiter tools and live broadcast in a single web app.
+
+## Correspondence Chess
+
+- [ICCF](https://www.iccf.com) - International Correspondence Chess Federation and the official web server for title-eligible correspondence events.
+- [LSS](https://www.lechenicher-schachserver.de) - Free correspondence chess server supporting classical postal-style time controls and themed events.
+- [SchemingMind](https://www.schemingmind.com) - Subscription correspondence chess club with thematic tournaments and a long-running community.
 
 ## Ratings and Statistics
 
 - [FIDE Ratings](https://ratings.fide.com) - Official FIDE rating lists for classical, rapid and blitz.
 - [2700chess](https://2700chess.com) - Live unofficial top-player ratings updated after every reported game.
-- [Chessmetrics](http://www.chessmetrics.com) - Jeff Sonas's historical-rating system covering games since 1843.
+- [Chessmetrics](http://www.chessmetrics.com) - Jeff Sonas's archived historical-rating system covering games back to 1843.
 - [ChessGoals](https://chessgoals.com) - Rating comparisons across Chess.com, Lichess and FIDE plus improvement resources.
 - [Chess.com Ratings](https://www.chess.com/ratings) - Live top-100 lists for classical, rapid, blitz and bullet.
 
@@ -269,7 +302,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Minic](https://github.com/tryingsomestuff/Minic) - Actively maintained single-header C++ UCI engine.
 - [Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) - Variant-capable Stockfish fork supporting 70+ chess variants.
 - [GNU Chess](https://www.gnu.org/software/chess/) - GNU Project's classical chess engine with UCI support since version 6.1.
-- [Maia](https://github.com/CSSLab/maia-chess) - Human-like neural network engine that mirrors play at specific skill levels.
 - [Dragon by Komodo](https://komodochess.com) - Strong commercial engine, free for non-commercial use.
 - [HIARCS](https://www.hiarcs.com) - Veteran commercial engine with a focus on positional play.
 - [Fritz](https://www.fritzchess.com) - ChessBase's classic commercial engine and analysis companion.
@@ -293,7 +325,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [chess-tui](https://github.com/thomas-mauran/chess-tui) - Rust-based TUI for local play, any UCI engine and Lichess.
 - [uchess](https://github.com/tmountain/uchess) - Themeable terminal UCI client supporting human, computer and engine-vs-engine play.
 - [c-chess-cli](https://github.com/lucasart/c-chess-cli) - Minimal C command-line interface for running UCI engine matches.
-- [lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - Python bridge between the Lichess Bot API and any UCI or XBoard engine.
 
 ## Databases and Opening Tools
 
@@ -302,6 +333,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lumbra's Gigabase](https://lumbrasgigabase.com/en) - Free 10M+ game over-the-board database updated regularly.
 - [Chessgames.com](https://www.chessgames.com) - Community-driven database with discussion on nearly every game.
 - [365Chess](https://www.365chess.com) - Free searchable game database with opening explorer.
+- [ChessTempo Game Database](https://chesstempo.com/game-database) - Free game database with opening explorer and per-player repertoire trees.
+- [ChessBase Mega Database](https://shop.chessbase.com/en/products/mega_database_2026) - Commercial reference database of more than eleven million games with professional annotations.
 - [Scid](https://scid.sourceforge.net) - Shane's Chess Information Database and the `.si4` family of database tools.
 - [Syzygy Tablebases](https://github.com/syzygy1/tb) - Reference implementation and tables for 6- and 7-piece endgame tablebases.
 - [ChessBase Opening Encyclopaedia](https://en.chessbase.com/post/the-new-opening-encyclopaedia-2025-your-easy-access-to-opening-theory) - Annual commercial opening reference released by ChessBase.
@@ -318,6 +351,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [chessops](https://github.com/niklasf/chessops) - TypeScript chess library by Lichess covering rules, FEN/PGN and variants.
 - [react-chessboard](https://github.com/Clariity/react-chessboard) - Customizable React chessboard component with drag and arrow drawing.
 - [chessboard.js](https://github.com/oakmac/chessboardjs) - Standalone JavaScript chessboard widget for rendering positions.
+- [chessboard2](https://github.com/oakmac/chessboard2) - Zero-dependency successor to chessboard.js with drag and arrow support.
+- [lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - Python bridge between the Lichess Bot API and any UCI or XBoard engine.
 - [chess-web-api](https://github.com/andyruwruw/chess-web-api) - Chess.com Published-Data API wrapper for Node.js with a priority queue.
 - [shakmaty](https://github.com/niklasf/shakmaty) - Fast Rust chess library with legal move generation and variant support.
 - [Pleco](https://github.com/pleco-rs/Pleco) - Rust chess engine and library inspired by Stockfish, usable as a crate.
@@ -338,7 +373,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 
 - [Lichess API](https://lichess.org/api) - Free public REST and streaming API with OAuth, covering games, tournaments, puzzles and bot play.
 - [Chess.com Published-Data API](https://www.chess.com/news/view/published-data-api) - Read-only JSON API exposing player profiles, game archives, clubs and tournaments.
-- [Chess-API.com](https://chess-api.com) - Free Stockfish-as-a-service REST and WebSocket API returning best-move analysis from FEN.
 - [Syzygy Tablebase API](https://syzygy-tables.info) - Niklas Fiekas's hosted 7-piece endgame tablebase lookup with JSON responses.
 
 ## Datasets
@@ -348,9 +382,9 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess Evaluation Database](https://database.lichess.org/#evals) - Cloud Stockfish evaluations for millions of analyzed positions.
 - [PGN Mentor](https://www.pgnmentor.com/files.html) - Curated PGN collections sorted by player, opening and event.
 - [Caissabase](http://caissabase.co.uk) - Free 5M+ game Scid database updated quarterly from TWIC and other sources.
-- [KingBase Lite](https://www.kingbase-chess.net) - Curated PGN database of strong-player games rated 2000 and above.
 - [FICS Games Database](https://www.ficsgames.org) - Archive of games played on the Free Internet Chess Server.
 - [Leela Chess Zero Training Data](https://storage.lczero.org/files/training_data/) - Public self-play training data and network weights.
+- [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - Canonical open-source ECO opening dataset used by many tools.
 
 ## File Formats and Standards
 
@@ -377,7 +411,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Stockfish NNUE Documentation](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md) - In-depth explanation of the NNUE architecture used in modern Stockfish.
 - [Maia Chess](https://www.maiachess.com) - Human-like neural chess engine from the UofT CSSLab that models skill by rating band.
 - [Maia-2](https://github.com/CSSLab/maia2) - Unified follow-up capturing human style coherently across skill levels.
-- [TalkChess](https://talkchess.com) - Long-running computer-chess discussion board where engine authors announce releases.
 - [ICGA Journal](https://icga.org/?page_id=1689) - Peer-reviewed journal of the International Computer Games Association.
 
 ## Forums and Subreddits
@@ -390,6 +423,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chess.com Forums](https://www.chess.com/forum) - Largest online chess community with thousands of active threads daily.
 - [Lichess Forum](https://lichess.org/forum) - Lichess's official forum covering play, variants and feedback.
 - [ChessPub Forum](https://www.chesspub.com) - Longstanding opening-theory forum tied to the ChessPublishing.com archives.
+- [TalkChess](https://talkchess.com) - Computer-chess discussion board where engine authors announce releases.
 - [Chess Stack Exchange](https://chess.stackexchange.com) - Q&A site for rules, theory, engine and composition questions.
 
 ## Chat and Social Media
@@ -406,6 +440,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chess Programming Wiki](https://www.chessprogramming.org) - Definitive community reference for engine authors, with thousands of articles on search, eval and history.
 - [Wikipedia Chess Portal](https://en.wikipedia.org/wiki/Portal:Chess) - Curated gateway to biographies, history and game articles on Wikipedia.
 - [Liquipedia Chess](https://liquipedia.net/chess/) - Esports-style wiki covering online events, PogChamps and tour coverage.
+- [FIDE Laws of Chess](https://handbook.fide.com/chapter/E012023) - Official FIDE Handbook chapter defining the rules of chess for rated play.
+- [FIDE Arbiters' Manual](https://arbiters.fide.com/arbiters-manual/) - FIDE Arbiters' Commission reference covering rulings, tiebreaks and rapid-chess penalties.
 
 ## History
 
@@ -413,8 +449,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [World Chess Championship history](https://en.wikipedia.org/wiki/World_Chess_Championship) - Comprehensive overview of every classical title match from Steinitz onward.
 - [Fischer vs. Spassky 1972](https://www.chessgames.com/perl/chesscollection?cid=1000038) - Annotated collection of all 21 games from the Match of the Century.
 - [Kasparov vs. Karpov matches](https://www.chessgames.com/perl/chesscollection?cid=1016573) - Full archive of the five world-title matches between the K's.
-- [Chess Archaeology](http://www.chessarch.com) - Nick Pope's collection of rediscovered games and historical PGNs.
 - [World Chess Hall of Fame](https://worldchesshof.org) - Saint Louis museum documenting history, champions and artifacts.
+- [Staunton Chess Set History](https://en.wikipedia.org/wiki/Staunton_chess_set) - Origin and design of the tournament-standard chess set.
 
 ## Famous Games
 
@@ -443,7 +479,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [The Defense](https://en.wikipedia.org/wiki/The_Defense) - Vladimir Nabokov's 1930 novel about an obsessed grandmaster.
 - [The Flanders Panel](https://en.wikipedia.org/wiki/The_Flanders_Panel) - Arturo Pérez-Reverte's chess-themed mystery novel.
 - [Through the Looking-Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass) - Lewis Carroll's novel structured entirely as a chess game.
-- [Staunton Chessmen History](https://en.wikipedia.org/wiki/Staunton_chess_set) - Origin and design of the tournament-standard chess set.
 
 ## Equipment
 
