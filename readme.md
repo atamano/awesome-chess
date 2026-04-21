@@ -56,8 +56,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Free Chess Club](https://freechess.club) - Modern web and mobile client for the FICS network.
 - [GameKnot](https://gameknot.com) - Long-standing correspondence community with teams and thematic tournaments.
 - [SparkChess](https://www.sparkchess.com) - Casual play-vs-computer and multiplayer platform with unique AI personalities.
-- [Papachess](https://papachess.com) - Human-like AI opponents and personalized training derived from your own games.
-- [FIDE Online Arena](https://arena.myfide.net) - Official FIDE-operated server with rated online chess and anti-cheat enforcement.
 - [Lichess4545](https://www.lichess4545.com) - Team-league hub running 45+45 classical and related Lichess-affiliated leagues.
 
 ## Mobile Apps
@@ -74,7 +72,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 
 - [Chess960 on Lichess](https://lichess.org/variant/chess960) - Play and study Fischer Random with a starting-position generator.
 - [Chess960 on Chess.com](https://www.chess.com/variants/chess960) - Fischer Random lobby including Double Fischer Random events.
-- [Double Fischer Random](https://www.chess.com/terms/double-fischer-chess) - Primer on the dual-scramble variant popularized by the Freestyle tour.
 - [Three-check](https://lichess.org/variant/threeCheck) - Win by delivering check three times.
 - [Atomic Chess](https://lichess.org/variant/atomic) - Captures detonate the surrounding squares.
 - [Antichess](https://lichess.org/variant/antichess) - Lose all your pieces first to win the game.
@@ -127,7 +124,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [DecodeChess](https://decodechess.com) - Natural-language engine explanations that translate Stockfish lines into plain text.
 - [NextChessMove](https://nextchessmove.com) - Web Stockfish calculator for quick best-move lookups from any FEN.
 - [Chessvision.ai](https://chessvision.ai) - Browser extension and API that OCRs chess diagrams from images, PDFs and video frames.
-- [Chess-API.com](https://chess-api.com) - Free Stockfish-as-a-service REST and WebSocket endpoint returning best-move analysis from FEN.
 
 ## Training Platforms and Courses
 
@@ -145,24 +141,23 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 ## Books
 
 - [My System](https://www.newinchess.com/my-system) - Aron Nimzowitsch's foundational treatise on hypermodern positional play.
-- [Zurich International Chess Tournament 1953](https://www.newinchess.com/zurich-international-chess-tournament-1953) - David Bronstein's deeply annotated games, widely called the best tournament book ever written.
-- [My 60 Memorable Games](https://www.penguinrandomhouse.com/books/323041/my-60-memorable-games-by-bobby-fischer/) - Bobby Fischer's self-annotated masterwork of ruthless honesty and clarity.
-- [Logical Chess Move by Move](https://www.penguinrandomhouse.com/books/13487/logical-chess-move-by-move-by-irving-chernev/) - Irving Chernev's classic explaining every move for improving players.
-- [The Art of Attack in Chess](https://www.everymanchess.com/chess/books/The_Art_of_Attack_in_Chess) - Vladimir Vukovic's timeless guide to the art of kingside assault.
-- [The Life and Games of Mikhail Tal](https://www.everymanchess.com/chess/books/The_Life_and_Games_of_Mikhail_Tal) - Autobiography and brilliancies from the Magician of Riga.
-- [Silman's Complete Endgame Course](https://www.siles.pub/books/silmans-complete-endgame-course) - Endgames taught by rating level from beginner to master.
-- [How to Reassess Your Chess](https://www.siles.pub/books/how-to-reassess-your-chess-4th-edition) - Jeremy Silman's imbalance-based method for positional thinking.
-- [Dvoretsky's Endgame Manual](https://www.russell-enterprises.com/product-page/dvoretsky-s-endgame-manual-6th-edition) - Mark Dvoretsky's definitive reference on serious endgame study.
+- [Zurich International Chess Tournament 1953](https://www.goodreads.com/book/show/85123.Zurich_International_Chess_Tournament_1953) - David Bronstein's deeply annotated games, widely called the best tournament book ever written.
+- [My 60 Memorable Games](https://en.wikipedia.org/wiki/My_60_Memorable_Games) - Bobby Fischer's self-annotated masterwork of ruthless honesty and clarity.
+- [Logical Chess Move by Move](https://www.goodreads.com/book/show/85086.Logical_Chess_Move_By_Move) - Irving Chernev's classic explaining every move for improving players.
+- [The Art of Attack in Chess](https://www.goodreads.com/book/show/12343111) - Vladimir Vukovic's timeless guide to the art of kingside assault.
+- [The Life and Games of Mikhail Tal](https://www.goodreads.com/book/show/13674.The_Life_and_Games_of_Mikhail_Tal) - Autobiography and brilliancies from the Magician of Riga.
+- [Silman's Complete Endgame Course](https://www.silmanjamespress.com/shop/chess/silmans-complete-endgame-course/) - Endgames taught by rating level from beginner to master.
+- [How to Reassess Your Chess](https://www.silmanjamespress.com/shop/chess/how-to-reassess-your-chess-4th-edition/) - Jeremy Silman's imbalance-based method for positional thinking.
+- [Dvoretsky's Endgame Manual](https://www.goodreads.com/book/show/52823184) - Mark Dvoretsky's definitive reference on serious endgame study.
 - [100 Endgames You Must Know](https://www.newinchess.com/100-endgames-you-must-know) - Jesús de la Villa's essential collection of must-know theoretical endings.
-- [Fundamental Chess Endings](https://www.gambitbooks.com/books/Fundamental_Chess_Endings.html) - Karsten Müller and Frank Lamprecht's comprehensive single-volume endgame compendium.
-- [Think Like a Grandmaster](https://www.newinchess.com/think-like-a-grandmaster) - Alexander Kotov on candidate moves and the tree-of-analysis method.
-- [Attacking Manual](https://www.qualitychess.co.uk/products/2/28/attacking_manual_1_by_jacob_aagaard/) - Jacob Aagaard's modern attacking framework in two volumes.
-- [Grandmaster Preparation: Positional Play](https://www.qualitychess.co.uk/products/2/160/positional_play_by_jacob_aagaard/) - The positional volume of Aagaard's influential training series.
-- [Bobby Fischer Teaches Chess](https://www.penguinrandomhouse.com/books/89725/bobby-fischer-teaches-chess-by-bobby-fischer-stuart-margulies-and-donn-mosenfelder/) - Classic programmed-learning introduction to basic tactics.
-- [Chess Fundamentals](https://www.everymanchess.com/chess/books/Chess_Fundamentals) - José Raúl Capablanca's timeless primer on sound chess thinking.
+- [Fundamental Chess Endings](https://www.goodreads.com/book/show/85122.Fundamental_Chess_Endings) - Karsten Müller and Frank Lamprecht's comprehensive single-volume endgame compendium.
+- [Think Like a Grandmaster](https://www.goodreads.com/book/show/1359046.Think_Like_A_Grandmaster) - Alexander Kotov on candidate moves and the tree-of-analysis method.
+- [Attacking Manual](https://www.goodreads.com/book/show/2717054-attacking-manual-volume-1) - Jacob Aagaard's modern attacking framework in two volumes.
+- [Grandmaster Preparation: Positional Play](https://www.goodreads.com/book/show/17836079-grandmaster-preparation---positional-play) - The positional volume of Aagaard's influential training series.
+- [Bobby Fischer Teaches Chess](https://en.wikipedia.org/wiki/Bobby_Fischer_Teaches_Chess) - Classic programmed-learning introduction to basic tactics.
+- [Chess Fundamentals](https://www.gutenberg.org/ebooks/33870) - José Raúl Capablanca's timeless primer on sound chess thinking.
 - [Everyone's First Chess Workbook](https://www.newinchess.com/everyone-s-first-chess-workbook) - Peter Giannatos's 738-puzzle starter used widely by coaches.
-- [Quality Chess catalog](https://www.qualitychess.co.uk) - Publisher of the acclaimed Grandmaster Preparation series and elite training books.
-- [Gambit Publications catalog](https://www.gambitbooks.com) - Longstanding chess publisher behind FCE and Nunn's Chess Puzzle Book.
+- [Quality Chess catalog](https://www.newinchess.com/quality-chess) - Publisher of the acclaimed Grandmaster Preparation series and elite training books.
 - [New In Chess](https://www.newinchess.com) - Dutch publisher behind the flagship magazine and many top instructional titles.
 - [Project Gutenberg Chess Books](https://www.gutenberg.org/ebooks/subject/1677) - Public-domain chess literature, including classics by Staunton, Morphy and Lasker.
 
@@ -174,7 +169,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Daniel Naroditsky](https://www.youtube.com/@DanielNaroditskyGM) - Extensive speedrun and educational archive, a lasting learning resource.
 - [Eric Rosen](https://www.youtube.com/@EricRosen) - Instructive, calm speedruns, opening traps and stream highlights.
 - [ChessNetwork](https://www.youtube.com/@ChessNetwork) - NM Jerry's long-running analysis channel with engine-vs-engine and classic commentary.
-- [John Bartholomew](https://www.youtube.com/@JohnBartholomew) - Creator of the "Climbing the Rating Ladder" series and Chessiverse.
+- [John Bartholomew](https://www.youtube.com/@JohnBartholomewChess) - Creator of the "Climbing the Rating Ladder" series and Chessiverse.
 - [Saint Louis Chess Club](https://www.youtube.com/@STLChessClub) - Weekly GM lectures, US Championship coverage and Finegold classes.
 - [ChessBase India](https://www.youtube.com/@ChessBaseIndiachannel) - Sagar Shah's prolific channel covering the Indian chess boom.
 - [GMBenjaminFinegold](https://www.youtube.com/@GMBenjaminFinegold) - Ben Finegold's Roswell lectures and Q&A streams.
@@ -189,13 +184,13 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Dojo Talks](https://www.youtube.com/@ChessDojo) - The ChessDojo team's training podcast and live review streams.
 - [IM Alex Banzea](https://www.youtube.com/@AlexBanzea) - Punchy opening-focused videos for club players and improvers.
 - [Chessbrah](https://www.youtube.com/chessbrah) - Aman Hambleton and Eric Hansen's channel known for the Building Habits and speedrun series.
-- [Anna Rudolf](https://www.youtube.com/@Anna_Chess) - IM Anna Rudolf's analysis, vlogs and event commentary.
+- [Anna Rudolf](https://www.youtube.com/@annarudolfchess) - IM Anna Rudolf's analysis, vlogs and event commentary.
 - [Tania Sachdev](https://www.youtube.com/@TaniaSachdevChess) - IM Tania Sachdev's commentary diaries from Norway Chess, Freestyle and the Champions Chess Tour.
 - [ChessMood YouTube](https://www.youtube.com/@ChessMood) - GM Avetik Grigoryan's channel tied to the ChessMood course platform.
 - [Nemo Zhou](https://www.youtube.com/@akaNemsko) - WGM Qiyu Zhou's YouTube home for stream highlights and travel chess.
-- [Magnus Carlsen](https://www.youtube.com/@MagnusCarlsen) - The world champion's personal channel with tournament recaps and Take Take Take segments.
-- [Anish Giri](https://www.youtube.com/@AnishGiri) - Top-ten GM Anish Giri's channel covering elite events and opening theory.
-- [Jan Gustafsson](https://www.youtube.com/@JanGustafsson) - GM Jan Gustafsson's opening clinics and top-event commentary.
+- [Magnus Carlsen](https://www.youtube.com/@themagnuscarlsen) - The world champion's personal channel with tournament recaps and Take Take Take segments.
+- [Anish Giri](https://www.youtube.com/@AnishGiriOfficial) - Top-ten GM Anish Giri's channel covering elite events and opening theory.
+- [Jan Gustafsson](https://www.youtube.com/@JanistanTV) - GM Jan Gustafsson's opening clinics and top-event commentary.
 - [Chessexplained](https://www.youtube.com/@Chessexplained) - IM Christof Sielecki's deep opening and improvement courses.
 - [Kingscrusher](https://www.youtube.com/@kingscrusher) - CM Tryfon Gavriel's long-running channel covering classic games and Leela deep dives.
 
@@ -208,21 +203,20 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [akaNemsko](https://www.twitch.tv/akanemsko) - WGM Qiyu Zhou's long-running chess-and-variety stream.
 - [anna_chess](https://www.twitch.tv/anna_chess) - WFM Anna Cramling's stream featuring tournaments and viewer games.
 - [Chess](https://www.twitch.tv/chess) - Official Twitch home of PogChamps and the Speed Chess Championship.
-- [GMBenjaminFinegold](https://www.twitch.tv/gmbenjaminfinegold) - Ben Finegold's lectures and Q&A broadcasts from Roswell.
-- [ChessDojoLive](https://www.twitch.tv/chessdojolive) - ChessDojo's live training, game reviews and podcast recordings.
+- [itsBenAndKaren](https://www.twitch.tv/itsbenandkaren) - Ben Finegold's lectures and Q&A broadcasts from Roswell.
+- [ChessDojo](https://www.twitch.tv/chessdojo) - ChessDojo's live training, game reviews and podcast recordings.
 
 ## Podcasts
 
 - [The Perpetual Chess Podcast](https://www.perpetualchesspod.com) - Ben Johnson's weekly interviews with top players, trainers and improvers.
 - [C-Squared Podcast](https://c2pod.com) - Fabiano Caruana and Cristian Chirila's insider chat on elite chess news.
 - [Dojo Talks](https://chessdojotalks.podbean.com) - Kraai, Kavutskiy and Pruess on training, news and the Dojo curriculum.
-- [Chess Journeys](https://www.chessjourneys.com) - Kevin Scull's weekly interviews with adult improvers.
 - [New In Chess Podcast](https://www.newinchess.com/podcast) - Official NIC show featuring interviews from the magazine's editors.
 
 ## Chess for Kids
 
 - [ChessKid](https://www.chesskid.com) - Safe kids' platform from Chess.com with lessons, puzzles and youth championships.
-- [No Stress Chess](https://www.winning-moves.com/product/no-stress-chess) - Card-based beginner game that teaches piece movement.
+- [No Stress Chess](https://winning-moves.com/product/NoStressChess.asp) - Card-based beginner game that teaches piece movement.
 
 ## News and Magazines
 
@@ -241,7 +235,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 
 - [ChessTech News](https://www.chesstech.org) - Independent weekly newsletter covering chess and technology.
 - [ChessGoals Blog](https://chessgoals.com/blog) - Matt Jensen's data-driven posts on rating benchmarks and improvement plans.
-- [Next Level Chess](https://nextlevelchess.com/blog) - GM Noël Studer's newsletter and essays on improvement and mindset.
+- [Next Level Chess](https://nextlevelchess.com/articles/) - GM Noël Studer's newsletter and essays on improvement and mindset.
 - [Lichess Blog](https://lichess.org/blog) - Official blog covering platform updates, events and open-source development.
 - [Chessable Blog](https://www.chessable.com/blog) - Learning-science articles and course spotlights from the Chessable team.
 - [Perpetual Chess Blog](https://www.perpetualchesspod.com/new-blog) - Show notes, book recaps and episode archives from Ben Johnson.
@@ -283,7 +277,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 ## Correspondence Chess
 
 - [ICCF](https://www.iccf.com) - International Correspondence Chess Federation and the official web server for title-eligible correspondence events.
-- [LSS](https://www.lechenicher-schachserver.de) - Free correspondence chess server supporting classical postal-style time controls and themed events.
+- [LSS](https://lss.chess-server.net/en/) - Free correspondence chess server supporting classical postal-style time controls and themed events.
 - [SchemingMind](https://www.schemingmind.com) - Subscription correspondence chess club with thematic tournaments and a long-running community.
 - [ChessWorld](https://www.chessworld.net) - Online correspondence-chess community with team matches and thematic events.
 
@@ -294,7 +288,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chessmetrics](http://www.chessmetrics.com) - Jeff Sonas's archived historical-rating system covering games back to 1843.
 - [ChessGoals](https://chessgoals.com) - Rating comparisons across Chess.com, Lichess and FIDE plus improvement resources.
 - [Chess.com Ratings](https://www.chess.com/ratings) - Live top-100 lists for classical, rapid, blitz and bullet.
-- [Elometer](https://elometer.net) - Self-administered 76-position test that estimates your chess playing strength.
 
 ## Engines
 
@@ -329,7 +322,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ChessX](https://chessx.sourceforge.io) - Qt-based cross-platform PGN database and analysis GUI.
 - [Arena](http://www.playwitharena.de) - Long-running free Windows and Linux GUI supporting UCI and WinBoard engines.
 - [XBoard](https://www.gnu.org/software/xboard/) - GNU Project's reference GUI, still maintained for Unix, Windows and macOS.
-- [ChessBase](https://shop.chessbase.com/en/categories/chessbase-program) - Commercial industry-standard database and analysis suite used by top professionals.
+- [ChessBase](https://shop.chessbase.com/en/categories/chessbase-cb) - Commercial industry-standard database and analysis suite used by top professionals.
 - [Lucas Chess R](https://lucaschess.pythonanywhere.com) - Free Windows and Linux training GUI with tactics, tutors and built-in engines.
 
 ## Terminal Clients
@@ -458,7 +451,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Wikipedia Chess Portal](https://en.wikipedia.org/wiki/Portal:Chess) - Curated gateway to biographies, history and game articles on Wikipedia.
 - [Liquipedia Chess](https://liquipedia.net/chess/) - Esports-style wiki covering online events, PogChamps and tour coverage.
 - [FIDE Laws of Chess](https://handbook.fide.com/chapter/E012023) - Official FIDE Handbook chapter defining the rules of chess for rated play.
-- [FIDE Arbiters' Manual](https://arbiters.fide.com/arbiters-manual/) - FIDE Arbiters' Commission reference covering rulings, tiebreaks and rapid-chess penalties.
+- [FIDE Arbiters' Manual](https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2025.pdf) - FIDE Arbiters' Commission reference covering rulings, tiebreaks and rapid-chess penalties.
 
 ## History
 
@@ -483,7 +476,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ARVES](https://www.arves.org) - International endgame-study association publishing EG magazine.
 - [Harold van der Heijden Endgame Database](https://www.arves.org/arves/index.php/en/magazine-eg/chess-endgame-study-database) - The standard 100,000+ endgame-study reference collection.
 - [SuperProblem](http://superproblem.ru/index-en.html) - Russian and English composition e-magazine with regular tourneys.
-- [Meson Chess Problem Database](https://www.bstephen.me.uk/meson/meson.pl) - Brian Stephenson's searchable problem archive.
+- [Meson Chess Problem Database](http://www.bstephen.me.uk/meson/) - Brian Stephenson's searchable problem archive.
 - [WFCC](https://www.wfcc.ch) - World Federation for Chess Composition, governing body of problem chess.
 - [Chess Composers](https://chesscomposers.blogspot.com) - Biographical blog cataloging composers by date of birth.
 
@@ -503,8 +496,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chess House](https://www.chesshouse.com) - Long-running US retailer for equipment, computers and books.
 - [American Chess Equipment](https://www.amchesseq.com) - Supplier of tournament-grade plastic sets and vinyl boards.
 - [DGT](https://www.digitalgametechnology.com) - Makers of the official FIDE chess clocks and electronic boards.
-- [Square Off](https://squareoffnow.com) - Robotic smart boards that move pieces automatically.
-- [ChessUp](https://chessup.com) - Smart board that teaches beginners with LED move highlights.
+- [ChessUp](https://playchessup.com) - Smart board that teaches beginners with LED move highlights.
 - [Chessnut](https://www.chessnutech.com) - Electronic boards with full piece recognition for online play.
 - [Millennium Chess](https://computerchess.com/us) - German maker of ChessGenius and The King dedicated chess computers.
 - [USCF Sales](https://www.uscfsales.com) - Official US Chess Federation store for tournament-legal equipment.
@@ -513,9 +505,9 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 ## Collegiate and Clubs
 
 - [Saint Louis Chess Club](https://saintlouischessclub.org) - World-class club and tournament venue hosting the Sinquefield Cup.
-- [US Chess College Chess](https://new.uschess.org/college-chess) - Hub for US collegiate events, rankings and the Pan-American championship.
+- [US Chess College Chess](https://new.uschess.org/college-chess-information) - Hub for US collegiate events, rankings and the Pan-American championship.
 - [UT Dallas Chess](https://chess.utdallas.edu) - Top-ranked US collegiate program with grandmaster scholarships.
-- [Webster University SPICE](https://www.webster.edu/arts-and-sciences/about/spice/) - Susan Polgar Institute and multiple-time collegiate Final Four champion.
+- [Webster University SPICE](https://webster.edu/spice/) - Susan Polgar Institute and multiple-time collegiate Final Four champion.
 - [Saint Louis University Chess](https://www.slu.edu/life-at-slu/chess-team/) - Partnership with STLCC that has won multiple national titles.
 
 ## Contributing
