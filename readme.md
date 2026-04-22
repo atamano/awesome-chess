@@ -63,10 +63,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess Mobile](https://github.com/lichess-org/mobile) - Official open-source Lichess client for iOS and Android.
 - [Chess.com Mobile](https://www.chess.com/mobile) - Official Chess.com client for play, puzzles and lessons.
 - [DroidFish](https://github.com/peterosterlund2/droidfish) - Feature-rich Android GUI built around Stockfish.
-- [SmallFish](https://apps.apple.com/app/smallfish-chess-for-stockfish/id675049700) - iOS Stockfish companion offering deep analysis and PGN import.
 - [Stockfish Chess Engine](https://apps.apple.com/us/app/stockfish-chess/id935877915) - Official mobile Stockfish app for iOS and Android.
 - [Chess Tempo](https://chesstempo.com/mobile) - Tactics training, rated puzzles and repertoire trainer on mobile.
-- [Follow Chess](https://followchess.com) - Live broadcast viewer for major tournaments.
 - [Take Take Take](https://taketaketake.com) - Magnus Carlsen's chess platform combining live tournament viewing, play and AI coaching on iOS and Android.
 
 ## Variants
@@ -125,14 +123,15 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [DecodeChess](https://decodechess.com) - Natural-language engine explanations that translate Stockfish lines into plain text.
 - [NextChessMove](https://nextchessmove.com) - Web Stockfish calculator for quick best-move lookups from any FEN.
 - [Chessvision.ai](https://chessvision.ai) - Browser extension and API that OCRs chess diagrams from images, PDFs and video frames.
+- [ChessMonitor](https://www.chessmonitor.com) - Personal chess dashboard unifying Chess.com, Lichess and PGN games with opening trees, mistake reports and performance analytics.
 
 ## Training Platforms and Courses
 
 - [Chessable](https://www.chessable.com) - Spaced-repetition MoveTrainer platform with courses from top grandmasters, now part of Chess.com.
 - [ChessMood](https://chessmood.com) - GM-taught course library with structured opening, middlegame and endgame paths led by Avetik Grigoryan.
 - [Chess.com Lessons](https://www.chess.com/lessons) - Structured video library covering openings, tactics, strategy and endgames.
-- [iChess.net](https://www.ichess.net) - Marketplace for master-level video courses and the Master Method series.
-- [ICC Video Library](https://www.chessclub.com/video-library) - Archive of lectures by Seirawan, Dlugy, Ashley and others.
+- [ICC Videos](https://www.chessclub.com/videos) - Archive of lectures by Seirawan, Dlugy, Ashley and others.
+- [Noctie](https://noctie.ai) - Human-like training partner powered by a neural engine calibrated to play at any rating from beginner to super-GM.
 - [Killer Chess Training](https://killerchesstraining.com) - Simon Williams and Daniel King's subscription site with live sessions.
 - [ChessDojo](https://www.chessdojo.club) - Kraai, Kavutskiy and Pruess's rating-banded structured training program.
 - [Chessiverse](https://chessiverse.com) - John Bartholomew's platform with personality-driven bots for realistic practice.
@@ -182,6 +181,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ChessCoach Andras](https://www.youtube.com/@ChessCoachAndras) - IM Andras Toth's no-nonsense improvement lessons for club players.
 - [BotezLive](https://www.youtube.com/@BotezLive) - Alexandra and Andrea Botez's channel with collabs and in-person chess.
 - [ChessVibes](https://www.youtube.com/@ChessVibesOfficial) - Nelson Lopez's clear, instructive videos focused on practical improvement.
+- [Hanging Pawns](https://www.youtube.com/@HangingPawns) - Stjepan Tomić's long-running improvement journey channel with opening surveys and rating-climb logs.
 - [Dojo Talks](https://www.youtube.com/@ChessDojo) - The ChessDojo team's training podcast and live review streams.
 - [IM Alex Banzea](https://www.youtube.com/@AlexBanzea) - Punchy opening-focused videos for club players and improvers.
 - [Chessbrah](https://www.youtube.com/chessbrah) - Aman Hambleton and Eric Hansen's channel known for the Building Habits and speedrun series.
@@ -257,7 +257,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess Broadcasts](https://lichess.org/broadcast) - Free live-event relay with per-move analysis boards.
 - [chess-results.com](https://chess-results.com) - Public archive of Swiss-system tournament results from club events up to Olympiads.
 - [Chessdom Calendar](https://calendar.chessdom.com) - Global calendar of upcoming classical, rapid and junior tournaments.
-- [ChessBomb](https://www.chessbomb.com) - Real-time event broadcasts with engine analysis and discussion.
 - [TCEC](https://tcec-chess.com) - Top Chess Engine Championship, the flagship long-time-control engine league.
 - [Computer Chess Championship](https://www.chess.com/computer-chess-championship) - Chess.com's 24/7 engine tournament with live commentary.
 - [Freestyle Chess Grand Slam Tour](https://www.freestyle-chess.com) - Chess960 tour co-founded by Magnus Carlsen and Kasparov Chess.
@@ -278,7 +277,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 ## Tournament Management Software
 
 - [Swiss-Manager](https://swiss-manager.at) - FIDE-approved pairing program used across more than a million tournaments and paired with chess-results.com.
-- [SwissSys](https://swisssys.com) - Windows tournament director software for Swiss, round-robin and team Swiss events under USCF and FIDE rules.
+- [SwissSys](https://www.chessroster.com/swisssys) - Windows tournament director software for Swiss, round-robin and team Swiss events under USCF and FIDE rules.
 - [Vega Chess](http://www.vegachess.com) - Cross-platform pairing engine for Swiss, round-robin and team events used across Europe and South America.
 - [Tornelo](https://home.tornelo.com) - Online tournament platform supporting pairings, arbiter tools and live broadcast in a single web app.
 
@@ -408,12 +407,12 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Forsyth-Edwards Notation](https://www.chessprogramming.org/Forsyth-Edwards_Notation) - FEN and EPD specs for exchanging chess positions, with EPD extensions for test suites.
 - [UCI Protocol](https://backscattering.de/chess/uci/) - Universal Chess Interface spec maintained by Niklas Fiekas, used by Stockfish and Leela.
 - [XBoard CECP Protocol](https://www.gnu.org/software/xboard/engine-intf.html) - GNU Chess Engine Communication Protocol, the older alternative to UCI.
-- [Polyglot Book Format](http://hardy.uhasselt.be/Toga/book_format.html) - Binary `.bin` opening-book format supported by most engines.
+- [Polyglot Book Format](https://www.chessprogramming.org/PolyGlot) - Chess Programming Wiki reference for the binary `.bin` opening-book format supported by most engines.
 - [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) - Long-maintained CLI for filtering, converting and fixing PGN files.
 
 ## Engine Testing
 
-- [CCRL](https://www.computerchess.org.uk/ccrl/) - Computer Chess Rating Lists covering 40/15, 40/4 and blitz across thousands of engines.
+- [CCRL](https://computerchess.org.uk) - Computer Chess Rating Lists covering 40/15, 40/4 and blitz across thousands of engines.
 - [CEGT](http://www.cegt.net) - Chess Engines Grand Tournament rating lists at multiple time controls.
 - [SPCC Rating List](https://www.sp-cc.de) - Stefan Pohl Computer Chess rating lists focused on top engines.
 - [OpenBench](https://github.com/AndyGrant/OpenBench) - Distributed SPRT testing framework used by dozens of engine projects.
@@ -427,7 +426,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Stockfish NNUE Documentation](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md) - In-depth explanation of the NNUE architecture used in modern Stockfish.
 - [Maia Chess](https://www.maiachess.com) - Human-like neural chess engine from the UofT CSSLab that models skill by rating band.
 - [Maia-2](https://github.com/CSSLab/maia2) - Unified follow-up capturing human style coherently across skill levels.
-- [ICGA Journal](https://icga.org/?page_id=1689) - Peer-reviewed journal of the International Computer Games Association.
+- [ICGA Journal](https://icga.org/?page_id=26) - Peer-reviewed journal of the International Computer Games Association.
 
 ## Forums and Subreddits
 
