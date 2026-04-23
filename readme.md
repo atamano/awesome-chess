@@ -478,11 +478,11 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 
 ## Famous Games
 
-- [The Immortal Game](https://www.chessgames.com/perl/chessgame?gid=1018910) - Anderssen versus Kieseritzky 1851, the legendary queen-and-rook sacrifice.
-- [The Evergreen Game](https://www.chessgames.com/perl/chessgame?gid=1019001) - Anderssen versus Dufresne 1852, another Anderssen masterpiece.
-- [The Opera Game](https://www.chessgames.com/perl/chessgame?gid=1233404) - Morphy's 1858 model of rapid development, played at the Paris Opera.
-- [Kasparov's Immortal](https://www.chessgames.com/perl/chessgame?gid=1011478) - Kasparov versus Topalov 1999, a rook sacrifice and king-hunt masterpiece.
-- [Game of the Century](https://www.chessgames.com/perl/chessgame?gid=1008361) - Thirteen-year-old Fischer's immortal queen sacrifice against Donald Byrne.
+- [Chessgames.com Game Collections](https://www.chessgames.com/perl/chesscollection) - Community-curated hub of thousands of thematic collections, from immortals to world-championship matches.
+- [10 Greatest Chess Games Ever Played](https://www.chessgames.com/perl/chesscollection?cid=1003368) - Long-standing Chessgames.com community pick of the most celebrated games in history.
+- [Wikipedia: List of chess games](https://en.wikipedia.org/wiki/List_of_chess_games) - Comprehensive index of historically significant games with annotations and context.
+- [The Best Chess Games of All Time](https://www.chess.com/article/view/the-best-chess-games-of-all-time) - Chess.com staff and contributors' ranked list of the greatest games.
+- [Top 15 Chess Games Before 1900](https://www.chess.com/blog/SamCopeland/the-top-15-chess-games-from-before-1900-and-130-honorable-mentions) - Sam Copeland's deep historical survey with 130+ honorable mentions.
 
 ## Problems and Studies
 
