@@ -124,6 +124,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [NextChessMove](https://nextchessmove.com) - Web Stockfish calculator for quick best-move lookups from any FEN.
 - [Chessvision.ai](https://chessvision.ai) - Browser extension and API that OCRs chess diagrams from images, PDFs and video frames.
 - [ChessMonitor](https://www.chessmonitor.com) - Personal chess dashboard unifying Chess.com, Lichess and PGN games with opening trees, mistake reports and performance analytics.
+- [ChessBase Reader](https://en.chessbase.com/pages/download) - Free official viewer for ChessBase's CBH, CBV and PGN files.
 
 ## Training Platforms and Courses
 
@@ -137,6 +138,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chessiverse](https://chessiverse.com) - John Bartholomew's platform with personality-driven bots for realistic practice.
 - [Dark Squares](https://darksquares.net) - Progressive blindfold chess trainer with seven levels from board basics to full games.
 - [Lichess Study](https://lichess.org/study) - Free collaborative tool for annotated studies and interactive lessons.
+- [Dan Heisman Chess](https://www.danheisman.com) - NM Dan Heisman's coaching site and home of the long-running Novice Nook improvement columns.
+- [Steps Method](https://www.stappenmethode.nl/en/) - Dutch Stappenmethode, the most widely used scholastic chess curriculum across Europe.
 
 ## Books
 
@@ -157,6 +160,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Bobby Fischer Teaches Chess](https://en.wikipedia.org/wiki/Bobby_Fischer_Teaches_Chess) - Classic programmed-learning introduction to basic tactics.
 - [Chess Fundamentals](https://www.gutenberg.org/ebooks/33870) - José Raúl Capablanca's timeless primer on sound chess thinking.
 - [Everyone's First Chess Workbook](https://www.newinchess.com/everyone-s-first-chess-workbook) - Peter Giannatos's 738-puzzle starter used widely by coaches.
+- [Build Up Your Chess with Artur Yusupov](https://www.newinchess.com/the-fundamentals-series) - Artur Yusupov's award-winning nine-volume training ladder from club level to master.
 - [Quality Chess catalog](https://www.newinchess.com/quality-chess) - Publisher of the acclaimed Grandmaster Preparation series and elite training books.
 - [New In Chess](https://www.newinchess.com) - Dutch publisher behind the flagship magazine and many top instructional titles.
 - [Project Gutenberg Chess Books](https://www.gutenberg.org/ebooks/subject/1677) - Public-domain chess literature, including classics by Staunton, Morphy and Lasker.
@@ -209,6 +213,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [akaNemsko](https://www.twitch.tv/akanemsko) - WGM Qiyu Zhou's long-running chess-and-variety stream.
 - [anna_chess](https://www.twitch.tv/anna_chess) - WFM Anna Cramling's stream featuring tournaments and viewer games.
 - [Chess](https://www.twitch.tv/chess) - Official Twitch home of PogChamps and the Speed Chess Championship.
+- [ChessBase India](https://www.twitch.tv/chessbaseindia) - Sagar Shah's channel, the most-watched chess stream on Twitch by all-time hours.
 - [itsBenAndKaren](https://www.twitch.tv/itsbenandkaren) - Ben Finegold's lectures and Q&A broadcasts from Roswell.
 - [ChessDojo](https://www.twitch.tv/chessdojo) - ChessDojo's live training, game reviews and podcast recordings.
 - [Blitzstream](https://www.twitch.tv/blitzstream) - Kevin Bordi's flagship French chess stream with daily blitz sessions and event commentary.
@@ -220,6 +225,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [C-Squared Podcast](https://c2pod.com) - Fabiano Caruana and Cristian Chirila's insider chat on elite chess news.
 - [Dojo Talks](https://chessdojotalks.podbean.com) - Kraai, Kavutskiy and Pruess on training, news and the Dojo curriculum.
 - [New In Chess Podcast](https://www.newinchess.com/podcast) - Official NIC show featuring interviews from the magazine's editors.
+- [Chess Journeys](https://chess-journeys.com) - Kevin Scull's interview podcast focused on adult-improver stories and training methods.
 
 ## Chess for Kids
 
@@ -300,6 +306,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - Strongest open-source UCI engine with NNUE evaluation.
 - [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - Neural-network engine inspired by AlphaZero and the reference GPU engine.
+- [Torch](https://www.chessprogramming.org/Torch) - Top-ranked closed-source engine by an all-star team and the engine powering Chess.com analysis.
 - [Obsidian](https://github.com/gab8192/Obsidian) - Top-tier C++ NNUE engine with networks trained from Leela data.
 - [PlentyChess](https://github.com/Yoshie2000/PlentyChess) - Top-ranked NNUE engine trained on billions of self-generated positions.
 - [Berserk](https://github.com/jhonnold/berserk) - Strong C UCI engine by Jay Honnold, actively developed.
