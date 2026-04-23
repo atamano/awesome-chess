@@ -63,7 +63,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess Mobile](https://github.com/lichess-org/mobile) - Official open-source Lichess client for iOS and Android.
 - [Chess.com Mobile](https://www.chess.com/mobile) - Official Chess.com client for play, puzzles and lessons.
 - [DroidFish](https://github.com/peterosterlund2/droidfish) - Feature-rich Android GUI built around Stockfish.
-- [Stockfish Chess Engine](https://apps.apple.com/us/app/stockfish-chess/id935877915) - Official mobile Stockfish app for iOS and Android.
+- [SmallFish Chess for Stockfish](https://apps.apple.com/us/app/smallfish-chess-for-stockfish/id675049147) - iOS Stockfish client recommended by the Stockfish team, with the latest NNUE networks built in.
 - [Chess Tempo](https://chesstempo.com/mobile) - Tactics training, rated puzzles and repertoire trainer on mobile.
 - [Take Take Take](https://taketaketake.com) - Magnus Carlsen's chess platform combining live tournament viewing, play and AI coaching on iOS and Android.
 
