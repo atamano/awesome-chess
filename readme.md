@@ -14,11 +14,12 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Endgames](#endgames)
 - [Analysis Tools](#analysis-tools)
 - [Training Platforms and Courses](#training-platforms-and-courses)
+- [Coaching](#coaching)
 - [Books](#books)
 - [YouTube Channels](#youtube-channels)
 - [Twitch Streamers](#twitch-streamers)
 - [Podcasts](#podcasts)
-- [Chess for Kids](#chess-for-kids)
+- [Chess in Education](#chess-in-education)
 - [News and Magazines](#news-and-magazines)
 - [Blogs and Newsletters](#blogs-and-newsletters)
 - [Tournaments and Broadcasts](#tournaments-and-broadcasts)
@@ -140,6 +141,14 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess Study](https://lichess.org/study) - Free collaborative tool for annotated studies and interactive lessons.
 - [Dan Heisman Chess](https://www.danheisman.com) - NM Dan Heisman's coaching site and home of the long-running Novice Nook improvement columns.
 - [Steps Method](https://www.stappenmethode.nl/en/) - Dutch Stappenmethode, the most widely used scholastic chess curriculum across Europe.
+- [Chessdriller](https://chessdriller.org) - Open-source spaced-repetition opening trainer; free self-hosted alternative to Chessable's review feature.
+- [Disco Chess](https://www.discochess.com) - Woodpecker-method trainer for tactics, openings and your own games with cycle tracking.
+
+## Coaching
+
+- [Chess.com Coaches](https://www.chess.com/coaches) - Searchable directory of verified coaches available for lessons on Chess.com, filterable by rating, language and specialty.
+- [Lichess Coaches](https://lichess.org/coach) - Free directory of FIDE-titled and National Master coaches on Lichess.
+- [IchessU](https://chesscoachonline.com) - Online coaching platform with live lessons for kids and adults from beginner to advanced level.
 
 ## Books
 
@@ -227,10 +236,13 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [New In Chess Podcast](https://www.newinchess.com/podcast) - Official NIC show featuring interviews from the magazine's editors.
 - [Chess Journeys](https://chess-journeys.com) - Kevin Scull's interview podcast focused on adult-improver stories and training methods.
 
-## Chess for Kids
+## Chess in Education
 
 - [ChessKid](https://www.chesskid.com) - Safe kids' platform from Chess.com with lessons, puzzles and youth championships.
 - [No Stress Chess](https://winning-moves.com/product/NoStressChess.asp) - Card-based beginner game that teaches piece movement.
+- [Chess in Education](https://chessineducation.org) - FIDE/ISCF resource hub for scholastic chess with research, news and the annual CiE conference.
+- [National Scholastic Chess Foundation](https://nscfchess.org) - US non-profit providing chess instruction and tournaments for students since 1990.
+- [Chess in the Schools](https://chessintheschools.org) - NYC-based program bringing free chess instruction to underserved public schools.
 
 ## News and Magazines
 
@@ -321,6 +333,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Igel](https://github.com/vshcherbyna/igel) - C/C++ UCI engine with NNUE evaluation and distinct search ideas.
 - [Minic](https://github.com/tryingsomestuff/Minic) - Actively maintained single-header C++ UCI engine.
 - [Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) - Variant-capable Stockfish fork supporting 70+ chess variants.
+- [Sunfish](https://github.com/thomasahle/sunfish) - Python chess engine in 111 lines; a landmark in minimal, readable engine design widely used for teaching.
 - [GNU Chess](https://www.gnu.org/software/chess/) - GNU Project's classical chess engine with UCI support since version 6.1.
 - [Dragon by Komodo](https://komodochess.com) - Strong commercial engine, free for non-commercial use.
 - [HIARCS](https://www.hiarcs.com) - Veteran commercial engine with a focus on positional play.
