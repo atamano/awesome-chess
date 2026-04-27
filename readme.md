@@ -143,6 +143,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Steps Method](https://www.stappenmethode.nl/en/) - Dutch Stappenmethode, the most widely used scholastic chess curriculum across Europe.
 - [Chessdriller](https://chessdriller.org) - Open-source spaced-repetition opening trainer; free self-hosted alternative to Chessable's review feature.
 - [Disco Chess](https://www.discochess.com) - Woodpecker-method trainer for tactics, openings and your own games with cycle tracking.
+- [Chessbuddy](https://chessbuddy.app) - Tactics trainer with adaptive per-theme difficulty and configurable training sessions.
 
 ## Coaching
 
