@@ -213,6 +213,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [The Big Greek](https://www.youtube.com/@TheBigGreek) - IM Georgios Souleidis's channel, the largest German-language chess channel.
 - [Rey Enigma](https://www.youtube.com/@ReyEnigma) - Masked Spanish IM's short-form street chess challenges and viral duels.
 - [Samay Raina Chess](https://www.youtube.com/@samayrainachess) - Indian comedian-streamer whose chess tournaments helped spark the India chess boom.
+- [GM Igor Smirnov](https://www.youtube.com/@GMIgorSmirnov) - Ukrainian Chess YouTuber, one of the Internet's favourite Chess teachers.
 
 ## Twitch Streamers
 
@@ -280,6 +281,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Computer Chess Championship](https://www.chess.com/computer-chess-championship) - Chess.com's 24/7 engine tournament with live commentary.
 - [Freestyle Chess Grand Slam Tour](https://www.freestyle-chess.com) - Chess960 tour co-founded by Magnus Carlsen and Kasparov Chess.
 - [Chess.com Events](https://www.chess.com/events) - Hub for Champions Chess Tour, Global Championship and Speed Chess events.
+- [TourneyRadar](https://github.com/AnayDhawan/tourneyradar) - Open-source interactive map of OTB chess tournaments worldwide
 
 ## Governing Bodies
 
@@ -408,6 +410,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Lichess API](https://lichess.org/api) - Free public REST and streaming API with OAuth, covering games, tournaments, puzzles and bot play.
 - [Chess.com Published-Data API](https://www.chess.com/news/view/published-data-api) - Read-only JSON API exposing player profiles, game archives, clubs and tournaments.
 - [Syzygy Tablebase API](https://syzygy-tables.info) - Niklas Fiekas's hosted 7-piece endgame tablebase lookup with JSON responses.
+- [TourneyRadar API](https://github.com/AnayDhawan/tourneyradar-api) - Free public REST API for chess tournament data, no auth required
 
 ## Datasets
 
