@@ -379,8 +379,11 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [berserk](https://github.com/lichess-org/berserk) - Official Python client for the Lichess API with full OAuth and bot support.
 - [python-chessdotcom](https://github.com/sarartur/chess.com) - Python wrapper around the Chess.com Published-Data API.
 - [stockfish (Python)](https://github.com/zhelyabuzhsky/stockfish) - Lightweight Python wrapper for controlling a local Stockfish binary via UCI.
+- [nnue-pytorch](https://github.com/official-stockfish/nnue-pytorch) - Official Stockfish NNUE trainer in PyTorch with data loaders and conversion tools.
 - [chess.js](https://github.com/jhlywa/chess.js) - Headless JavaScript chess library for move generation, validation and PGN/FEN handling.
 - [chessops](https://github.com/niklasf/chessops) - TypeScript chess library by Lichess covering rules, FEN/PGN and variants.
+- [lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - Python bridge between the Lichess Bot API and any UCI or XBoard engine.
+- [chess-web-api](https://github.com/andyruwruw/chess-web-api) - Chess.com Published-Data API wrapper for Node.js with a priority queue.
 - [shakmaty](https://github.com/niklasf/shakmaty) - Fast Rust chess library with legal move generation and variant support.
 - [Pleco](https://github.com/pleco-rs/Pleco) - Rust chess engine and library inspired by Stockfish, usable as a crate.
 - [chess (Rust)](https://github.com/jordanbray/chess) - Rust chess move-generation library focused on speed via magic bitboards.
@@ -398,15 +401,15 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 
 ## Visualization and Diagram Tools
 
-- [chess-vision](https://github.com/bilgegates/chess-vision) - The professional-grade diagram generator for serious chess content creators — stunning, print-ready boards from any FEN, entirely in your browser.
-- [chessground](https://github.com/lichess-org/chessground) - Framework-agnostic SVG/canvas board UI powering Lichess; battle-tested at production scale and supports premoves, animations and all Lichess variants.
-- [react-chessboard](https://github.com/Clariity/react-chessboard) - The go-to React chessboard component with drag-and-drop, arrow drawing and Next.js compatibility out of the box.
-- [chessboard2](https://github.com/oakmac/chessboard2) - Zero-dependency successor to chessboard.js with drag-and-drop and arrow support; no build step required.
-- [chessboard.js](https://github.com/oakmac/chessboardjs) - Widely-used standalone JavaScript board widget; simple API and broad browser compatibility make it a popular embedding choice.
+- [chess-vision](https://github.com/chessvision-org/chess-vision) - Client-side chess diagram generator with FEN support, board themes and high-resolution export.
+- [chessground](https://github.com/lichess-org/chessground) - Framework-agnostic chess board UI used by Lichess.
+- [react-chessboard](https://github.com/Clariity/react-chessboard) - Customizable React chessboard component with drag and arrow drawing.
+- [chessboard2](https://github.com/oakmac/chessboard2) - Zero-dependency successor to chessboard.js with drag and arrow support.
+- [chessboard.js](https://github.com/oakmac/chessboardjs) - Standalone JavaScript chessboard widget for rendering positions.
 - [Chess Diagram Generator (ChessVideos.tv)](https://www.chessvideos.tv/chess-diagram-generator.php) - Quick online tool to generate shareable board images by dragging pieces or pasting a FEN string.
 - [Apronus Chess Diagram Editor](https://www.apronus.com/chess/diagram/editor/) - Browser-based diagram editor that exports PNG and embeddable SVG images with optional text annotations.
 - [FEN Tool](https://mutsuntsai.github.io/fen-tool/) - Lightweight client-side FEN utility for composing problems and generating diagrams with a clean, minimal interface.
-- [Chessvision.ai](https://chessvision.ai) - Browser extension and API that uses computer vision to OCR chess diagrams from images, PDFs and video frames into FEN.
+- [Chessvision.ai](https://chessvision.ai) - Browser extension and API that OCRs chess diagrams from images, PDFs and video frames.
 
 ## APIs and Data Sources
 
