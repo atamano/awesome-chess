@@ -401,7 +401,6 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 
 ## Visualization and Diagram Tools
 
-- [chess-vision](https://github.com/chessvision-org/chess-vision) - Client-side chess diagram generator with FEN support, board themes and high-resolution export.
 - [chessground](https://github.com/lichess-org/chessground) - Framework-agnostic chess board UI used by Lichess.
 - [react-chessboard](https://github.com/Clariity/react-chessboard) - Customizable React chessboard component with drag and arrow drawing.
 - [chessboard2](https://github.com/oakmac/chessboard2) - Zero-dependency successor to chessboard.js with drag and arrow support.
