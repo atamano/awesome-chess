@@ -86,6 +86,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Bughouse Database](https://www.bughouse-db.org) - Archive of bughouse games played on FICS.
 - [PyChess Variants](https://www.pychess.org) - Open-source server for 30+ variants including Shogi and Xiangqi cousins.
 - [The Chess Variant Pages](https://www.chessvariants.com) - Encyclopedia of thousands of chess-family games since 1995.
+- [Big Multiplayer Chess](https://bigmultiplayerchess.com) - Free online variant where pawns move four ways and taking a king captures their pieces.
 
 ## Puzzles and Tactics
 
