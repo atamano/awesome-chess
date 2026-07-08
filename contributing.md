@@ -25,6 +25,17 @@ To keep the list curated and high quality, please make sure your suggestion meet
 - **Accessible**: at least a significant portion of the resource is available in English.
 - **Reputable**: no referral-only sites, paywalled black boxes, self-promotional fluff, or AI-generated low-effort content.
 
+### Channels, Streamers and Podcasts
+
+The **YouTube Channels**, **Twitch Streamers** and **Podcasts** sections are the most subjective, so entries must clear a higher, objective bar:
+
+- **Substantial audience**: at least 50k subscribers/followers on the linked platform. Smaller channels can still qualify if the creator is a titled player or otherwise notable, but say so in the PR.
+- **Recently active**: has published a video, stream, or episode within the last 6 months.
+- **Chess-focused**: chess is the primary subject of the channel, not an occasional topic.
+- **Distinct value**: adds something the existing entries do not (a language, a format, a niche). Duplicates of what is already covered will not be accepted.
+
+Entries that no longer meet these criteria (inactive, renamed, or gone dark) may be removed.
+
 ## Pull Request Process
 
 1. Fork the repository and create your branch from `main`.
