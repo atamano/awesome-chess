@@ -126,6 +126,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [NextChessMove](https://nextchessmove.com) - Web Stockfish calculator for quick best-move lookups from any FEN.
 - [ChessMonitor](https://www.chessmonitor.com) - Personal chess dashboard unifying Chess.com, Lichess and PGN games with opening trees, mistake reports and performance analytics.
 - [ChessBase Reader](https://en.chessbase.com/pages/download) - Free official viewer for ChessBase's CBH, CBV and PGN files.
+- [BetterBullet](https://betterbullet.xyz) - Bullet-specific pacing analyzer comparing your 1+0 clock use to rating-band benchmarks.
 
 ## Training Platforms and Courses
 
