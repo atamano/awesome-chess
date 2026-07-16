@@ -111,6 +111,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [OpeningTree](https://www.openingtree.com) - Visualizes your own Chess.com or Lichess games as an opening tree.
 - [ChessAtlas](https://chessatlas.net) - Spaced-repetition trainer for memorizing and maintaining your opening repertoire.
 - [Opening Scanner](https://openingscanner.com) - Client-side tool that reveals any Lichess or Chess.com player's actual repertoire with ECO classification and win rates.
+- [Chessnote](https://chessnote.io) - Interactive tool to visualize opening variations and build a personal repertoire, free to start.
 
 ## Endgames
 
