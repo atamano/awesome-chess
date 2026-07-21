@@ -352,6 +352,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [XBoard](https://www.gnu.org/software/xboard/) - GNU Project's reference GUI, still maintained for Unix, Windows and macOS.
 - [ChessBase](https://shop.chessbase.com/en/categories/chessbase-cb) - Commercial industry-standard database and analysis suite used by top professionals.
 - [Lucas Chess R](https://lucaschess.pythonanywhere.com) - Free Windows and Linux training GUI with tactics, tutors and built-in engines.
+- [Checkmate Elo](https://github.com/Vangaurdd/checkmate-elo) - Rated chess GUI for macOS with chess.com-calibrated AI and Stockfish-powered move review.
 
 ## Terminal Clients
 
