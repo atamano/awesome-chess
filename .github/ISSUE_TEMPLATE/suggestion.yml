@@ -67,8 +67,29 @@ body:
       placeholder: Starts with a capital, ends with a period, under 100 characters.
     validations:
       required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Are you affiliated with this resource?
+      description: Self-suggestions are fine and judged on the same criteria — undisclosed ones are closed without review.
+      options:
+        - "No"
+        - "Yes — I built it or work on it"
+        - "Yes — other (explain below)"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Eligibility evidence
+      description: Link at least one objective audience signal from the table in contributing.md (stars, downloads, installs, community discussion, press coverage — websites/services need two signals). If the project is below the thresholds, make the full Hidden Gem case from contributing.md instead.
+      placeholder: e.g. https://github.com/org/project (repo since 2024, 120 stars)
+    validations:
+      required: true
   - type: textarea
     id: why
     attributes:
-      label: Why does this belong on the list?
-      placeholder: Evidence of activity, audience, or uniqueness vs existing entries.
+      label: Closest existing entries and distinct value
+      placeholder: Which listed entries are most similar, and what does this add that they don't?
+    validations:
+      required: true
