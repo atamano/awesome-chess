@@ -408,6 +408,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Apronus Chess Diagram Editor](https://www.apronus.com/chess/diagram/editor/) - Browser-based diagram editor that exports PNG and embeddable SVG images with optional text annotations.
 - [FEN Tool](https://mutsuntsai.github.io/fen-tool/) - Lightweight client-side FEN utility for composing problems and generating diagrams with a clean, minimal interface.
 - [Chessvision.ai](https://chessvision.ai) - Browser extension and API that OCRs chess diagrams from images, PDFs and video frames.
+- [fenshot](https://github.com/scoriiu/fenshot) - Open-source screenshot-to-FEN recognition running entirely in the browser, reads site screenshots and book diagrams and opens them on Lichess.
 
 ## APIs and Data Sources
 
