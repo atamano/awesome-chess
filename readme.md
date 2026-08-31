@@ -110,6 +110,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chessreps](https://www.chessreps.com) - Minimal spaced-repetition opening trainer for rapid repertoire building.
 - [OpeningTree](https://www.openingtree.com) - Visualizes your own Chess.com or Lichess games as an opening tree.
 - [Opening Scanner](https://openingscanner.com) - Client-side tool that reveals any Lichess or Chess.com player's actual repertoire with ECO classification and win rates.
+- - [KitsuneChess](https://kitsunechess.com/) - Bilingual (Japanese/English) opening trainer covering 100 openings with move-by-move guidance, verified with Stockfish.
 
 ## Endgames
 
