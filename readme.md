@@ -124,7 +124,8 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [DecodeChess](https://decodechess.com) - Natural-language engine explanations that translate Stockfish lines into plain text.
 - [NextChessMove](https://nextchessmove.com) - Web Stockfish calculator for quick best-move lookups from any FEN.
 - [ChessMonitor](https://www.chessmonitor.com) - Personal chess dashboard unifying Chess.com, Lichess and PGN games with opening trees, mistake reports and performance analytics.
-- [ChessBase Reader](https://en.chessbase.com/pages/download) - Free official viewer for ChessBase's CBH, CBV and PGN files.
+- [ChessBase Reader](https://en.chessbase.com/pages/download) - Free official viewer
+- [ScanChess](https://scanchess.com) - Photograph a paper scoresheet or board position to get an interactive game record with analysis and a shareable PGN; includes free printable scoresheets. for ChessBase's CBH, CBV and PGN files.
 
 ## Training Platforms and Courses
 
