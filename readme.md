@@ -126,6 +126,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [ChessMonitor](https://www.chessmonitor.com) - Personal chess dashboard unifying Chess.com, Lichess and PGN games with opening trees, mistake reports and performance analytics.
 - [ChessBase Reader](https://en.chessbase.com/pages/download) - Free official viewer for ChessBase's CBH, CBV and PGN files.
 - [Chessigma](https://www.chessigma.com) - Free unlimited game review of Chess.com, Lichess and PGN games with in-browser Stockfish.
+- [Chess Next Move](https://chessnewmove.com/) - Free chess move calculator that finds the best move in any position with instant engine analysis.
 
 ## Training Platforms and Courses
 
