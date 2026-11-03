@@ -125,6 +125,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [NextChessMove](https://nextchessmove.com) - Web Stockfish calculator for quick best-move lookups from any FEN.
 - [ChessMonitor](https://www.chessmonitor.com) - Personal chess dashboard unifying Chess.com, Lichess and PGN games with opening trees, mistake reports and performance analytics.
 - [ChessBase Reader](https://en.chessbase.com/pages/download) - Free official viewer for ChessBase's CBH, CBV and PGN files.
+- [ScanChess](https://scanchess.com) - Turn board photos, screenshots or handwritten scoresheets into FEN positions and PGN games, with built-in Stockfish analysis.
 
 ## Training Platforms and Courses
 
