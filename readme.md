@@ -110,12 +110,14 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chessreps](https://www.chessreps.com) - Opening courses by grandmasters and titled players, learned by playing with spaced repetition.
 - [OpeningTree](https://www.openingtree.com) - Visualizes your own Chess.com or Lichess games as an opening tree.
 - [Opening Scanner](https://openingscanner.com) - Client-side tool that reveals any Lichess or Chess.com player's actual repertoire with ECO classification and win rates.
+- [ChessAtlas](https://chessatlas.net) - Spaced-repetition repertoire trainer that flags where your online games left your prep.
 
 ## Endgames
 
 - [Lichess Endgame Practice](https://lichess.org/practice) - Free interactive endgame drills against the engine.
 - [Chess.com Endgames](https://www.chess.com/endgames) - Themed endgame trainer with progressive difficulty.
 - [Chesstempo Endgames](https://chesstempo.com/chess-endgames) - Rated endgame trainer using tablebase-perfect positions.
+- [ChessEndings](https://chessendings.com) - Play out theoretical endgames against a resisting Stockfish, with each mistake explained.
 
 ## Analysis Tools
 
