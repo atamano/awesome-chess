@@ -107,7 +107,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [365Chess Opening Explorer](https://www.365chess.com/opening.php) - Free opening explorer searchable by ECO code and position.
 - [Chessly](https://www.chessly.com) - GothamChess opening-focused training with adaptive coursework.
 - [Chessbook](https://chessbook.com) - Repertoire builder with spaced repetition and game-review integration.
-- [Chessreps](https://www.chessreps.com) - Minimal spaced-repetition opening trainer for rapid repertoire building.
+- [Chessreps](https://www.chessreps.com) - Opening courses by grandmasters and titled players, learned by playing with spaced repetition.
 - [OpeningTree](https://www.openingtree.com) - Visualizes your own Chess.com or Lichess games as an opening tree.
 - [Opening Scanner](https://openingscanner.com) - Client-side tool that reveals any Lichess or Chess.com player's actual repertoire with ECO classification and win rates.
 
