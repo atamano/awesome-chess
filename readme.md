@@ -301,6 +301,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [SwissSys](https://www.chessroster.com/swisssys) - Windows tournament director software for Swiss, round-robin and team Swiss events under USCF and FIDE rules.
 - [Vega Chess](http://www.vegachess.com) - Cross-platform pairing engine for Swiss, round-robin and team events used across Europe and South America.
 - [Tornelo](https://home.tornelo.com) - Online tournament platform supporting pairings, arbiter tools and live broadcast in a single web app.
+- [LeagueMakerApp](https://leaguemakerapp.com/p/swiss-tournament-generator) - Free browser-based Swiss, round robin and knockout pairings with live standings and TRF export.
 
 ## Correspondence Chess
 
