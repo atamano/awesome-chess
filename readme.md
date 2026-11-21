@@ -99,6 +99,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [Chess.com Vision](https://www.chess.com/vision) - Square-coordinate and move-speed trainer for board-vision improvement.
 - [WTHarvey](https://wtharvey.com) - Free archive of more than 20,000 tactical puzzles drawn from GM games.
 - [ChessTactics.org](https://www.chesstactics.org) - Long-standing site offering thematic tactics courses and problem sets.
+- [PrimalChess](https://www.primalchess.com) - Training app for 1200-1800 players with free game analysis and spaced-repetition drills from your own games.
 
 ## Openings
 
